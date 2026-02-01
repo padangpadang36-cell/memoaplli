@@ -1,6 +1,6 @@
 // 1. 接続設定（ここを今中さんの情報に書き換えてください！）
 const SUPABASE_URL = "https://bmblstfrzddpkkudmiqt.supabase.co";
-const SUPABASE_ANON_KEY = "ここにPublishable keyを貼り付け"; //
+const SUPABASE_ANON_KEY = "sb_publishable_FjGXDlSBCot46gcK3bqeRA_ktHLprLe"; //
 
 const { createClient } = supabase;
 const _supabase = createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
